@@ -4,8 +4,8 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ## Preview<br>
 ## Links &#128269;
 <ul>
-<li>Live Site URL: <a href="https://0xabdul.github.io/Results-Summary-Component-Using-Html-Css.../">Click Here</a></li><br>
-<li>Solution URL: <a href="https://www.frontendmentor.io/solutions/resultssummarycomponentusinghtmlcss-FfJL6OxJQ7">Click Here</a></li>
+<li>Live Site URL: <a href="">Click Here</a></li><br>
+<li>Solution URL: <a href="">Click Here</a></li>
 </ul><br>
 
 ## Built with &#128295;
@@ -19,17 +19,11 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 
 
 
-## What I learned &#128373;
-<ul>
-  <li> practiced more about  responsive</li>
-  <li>practiced more  flex layouts</li>
-  </ul><br><br>
   
 ## About In This Project &#11088;
 <ul>
   <li>In this project is most responsive every 100px</li>
   <li> clean code</li>
-  <li>I using in this project flex</li>
   <li>Css Animations</li>
   </ul><br>
 
