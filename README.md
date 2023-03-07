@@ -4,7 +4,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ## Preview<br>
 ## Links &#128269;
 <ul>
-<li>Live Site URL: <a href="">Click Here</a></li><br>
+<li>Live Site URL: <a href="https://0xabdul.github.io/Ping-Comming-Soon-page../">Click Here</a></li><br>
 <li>Solution URL: <a href="">Click Here</a></li>
 </ul><br>
 
