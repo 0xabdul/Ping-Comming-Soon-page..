@@ -23,7 +23,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 ## About In This Project &#11088;
 <ul>
   <li>In this project is most responsive every 100px</li>
-  <li> clean code</li>
+  <li> clean code</li
   <li>Css Animations</li>
   </ul><br>
 
