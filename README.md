@@ -17,7 +17,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 - ![Zorin](https://img.shields.io/badge/Zorin%20Linux-1793D1?logo=zorin-linux&logoColor=fff&style=for-the-badge)<br>
 
-
+.
 
   
 ## About In This Project &#11088;
